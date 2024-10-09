@@ -1,0 +1,10 @@
+# For Linear Regression Model:
+  python linear_regression.py
+# For CNN-based Image Classification:
+  python cnn_classification.py
+# For Sentiment Analysis:
+  python sentiment_analysis.py
+
+
+  
+
