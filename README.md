@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Dynamic-Machine-Learning-Portfolio-with-Interactive-Explaination
 
 ![GitHub top language](https://img.shields.io/github/languages/top/KartikeyAhiwar/Machine-Learning)
 ![GitHub repo size](https://img.shields.io/github/repo-size/KartikeyAhiwar/Machine-Learning)
